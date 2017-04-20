@@ -1,0 +1,22 @@
+{
+  "name": "WebOptimization",
+  "version": "1.0.0",
+  "description": "Your challenge, if you wish to accept it (and we sure hope you will), is to optimize this online portfolio for speed! In particular, optimize the critical rendering path and make this page render as quickly as possible by applying the techniques you've picked up in the [Critical Rendering Path course](https://www.udacity.com/course/ud884).",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "test",
+    "optimize",
+    "speed"
+  ],
+  "author": "Moaz Rashad",
+  "license": "ISC",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-cssmin": "^2.1.0",
+    "grunt-minify-html": "^2.1.0",
+    "load-grunt-tasks": "^3.5.2"
+  }
+}
